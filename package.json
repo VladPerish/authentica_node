@@ -1,0 +1,19 @@
+{
+  "name": "authentica_node",
+  "version": "1.0.0",
+  "description": "Secure Authentication Solution for Corporate Use",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladPerish/authentica_node.git"
+  },
+  "author": "VladPerish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VladPerish/authentica_node/issues"
+  },
+  "homepage": "https://github.com/VladPerish/authentica_node#readme"
+}
